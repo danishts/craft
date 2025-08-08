@@ -1,7 +1,7 @@
 // src/pages/Auth/Signup.jsx
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import Massk from "../../assets/massk.png";
+import Massk from "../../assets/Massk.png";
 
 export default function Signup() {
   const navigate = useNavigate();

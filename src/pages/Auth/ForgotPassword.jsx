@@ -1,7 +1,7 @@
 // src/pages/Auth/ForgotPassword.jsx
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import Massk from "../../assets/massk.png";
+import Massk from "../../assets/Massk.png";
 
 export default function ForgotPassword() {
   const [email, setEmail] = useState("");
