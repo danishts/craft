@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { FaEye, FaEyeSlash } from "react-icons/fa";
-import Massk from "../../assets/massk.png";
+import Massk from "../../assets/Massk.png";
 
 export default function Login({ onLogin }) {
   const [email, setEmail] = useState("");
