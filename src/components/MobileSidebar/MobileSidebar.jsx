@@ -51,7 +51,7 @@ import {
   Layers,
   Truck,
 } from "lucide-react";
-import Massk from "../../assets/massk.png";
+import Massk from "../../assets/Massk.png";
 
 export default function MobileSidebar({ onClose }) {
   const links = [
