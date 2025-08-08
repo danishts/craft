@@ -58,7 +58,7 @@ import {
   Layers,
   Truck,
 } from "lucide-react"; // Icons from lucide-react
-import Massk from "../../assets/massk.png"; // Assuming you have a logo image
+import Massk from "../../assets/Massk.png"; // Assuming you have a logo image
 
 export default function Sidebar() {
   const links = [
